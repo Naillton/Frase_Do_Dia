@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FrasesDoDia">
         <activity
+            android:screenOrientation="sensor"
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
